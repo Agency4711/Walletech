@@ -11,7 +11,7 @@ const Hero = () => {
           </h1>
 
           <h1 className="text-gradient text-[72px] max-lg:text-[52px]  max-ss:text-[52px] max-[490px]:text-[40px]  font-larsseit font-semibold">
-          Gaina Trading 
+          Gaina Trading
         </h1>
           <p className={`${styles.paragraph} max-w-[770px] max-[1060px]:justify-center mt-5`}>
           With a WALLETECH you can access the more than 240 million customers out there, as well as offering management tools, options, and payment methods.
